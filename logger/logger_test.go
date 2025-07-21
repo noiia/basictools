@@ -8,9 +8,10 @@ import (
 	"os"
 	"testing"
 
-	"watdowedo/internal/common/editstring"
-	"watdowedo/internal/common/errornow"
-	"watdowedo/internal/common/logger"
+	"github.com/noiia/basictool/errornow"
+	"github.com/noiia/basictool/logger"
+
+	"github.com/noiia/basictool/editstring"
 )
 
 func TestLogger(t *testing.T) {

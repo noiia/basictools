@@ -1,0 +1,2 @@
+# basictools
+Simple library that add a multiwriter logger, a string editor and an log and FailNow KillComment function for testing. These are usefull packages that i used to reuse in many projects. Have fun with and if you want to contribute or add comments to improve it you are welcome.
