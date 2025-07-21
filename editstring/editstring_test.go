@@ -7,8 +7,8 @@ package editstring_test
 import (
 	"testing"
 
-	"basictools/editstring"
-	"basictools/errornow"
+	"github.com/noiia/basictools/editstring"
+	"github.com/noiia/basictools/errornow"
 )
 
 func TestClean(t *testing.T) {

@@ -1,3 +1,3 @@
-module github.com/noiia/basictool
+module github.com/noiia/basictools
 
-go 1.23
+go 1.24.5

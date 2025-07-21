@@ -7,7 +7,7 @@ package errornow_test
 import (
 	"testing"
 
-	"watdowedo/internal/common/errornow"
+	"github.com/noiia/basictools/errornow"
 )
 
 type testKillComment struct {
